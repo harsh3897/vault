@@ -3,8 +3,8 @@
 
 provider "aws" {
   // Credentials set via env vars
-  access_key = "AKIA6AYKJL5IQECSNGDT"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
   region = var.aws_region
 }
 
